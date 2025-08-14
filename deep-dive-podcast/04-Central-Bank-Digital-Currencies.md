@@ -1,8 +1,8 @@
-# CDBC
+# CBDC
 
 Audio format: https://youtu.be/EAgm_80zKQM
 
-## What is CDBC?
+## What is CBDC?
 
 - A CBDC is like the digital version of your country's official money, like a digital dollar or digital euro.
 - It's issued and guaranteed directly by the central bank (which is like the main bank for a whole country). This means it's considered very safe, like having real cash in your hand, because the central bank backs it directly.
@@ -11,7 +11,7 @@ Audio format: https://youtu.be/EAgm_80zKQM
     - Money in apps like Alipay or WeChat Pay: These are also run by private companies, not directly by the central bank.
     - Cryptocurrencies like Bitcoin: These are usually created and controlled by a network of computers, not by any single government or central bank. CBDC is centralized, meaning the central bank has control.
 
-## CDBC Coexistence With Other Money Form
+## CBDC Coexistence With Other Money Form
 When new types of money or payment methods come along, it doesn't always mean the old ones completely disappear. It's often more about having more choices and things working together.
 
 ### What happens to Cash (physical banknotes and coins)?
@@ -28,7 +28,7 @@ Yes. The use of physical cash has already decreased a lot as digital payments ha
 ### What happens to E-money (like Alipay or WeChat Pay)
 They'll likely stick around and even work with CBDCs: The sources show that CBDCs and existing "Fast Payment Systems" (FPSs) or "e-money networks" (like Alipay and WeChat Pay in China) are often seen as partners or complements, not rivals that replace each other
 
-#### Why CDBC & E-money will Coexist?
+#### Why CBDC & E-money will Coexist?
 - Already popular: Many people already love using apps like Alipay and WeChat Pay because they're super convenient. In China, despite big efforts to promote e-CNY (their CBDC), people often stick to their existing apps and aren't eager to switch. These private platforms have a "first-mover advantage"
 - Different purposes: While both can make payments fast and cheap, CBDCs are direct digital money from the central bank, which means they are very safe because the central bank backs them directly, like cash. E-money, on the other hand, is usually money held by private companies, even if it's very convenient.
 - Interoperability: Central banks want CBDCs to work smoothly with existing systems so you can easily move money between your CBDC wallet and your regular bank or e-money accounts. This makes the whole payment system more efficient and resilient
@@ -38,7 +38,7 @@ Challenges for CBDC: It's tough for CBDCs to gain as much popularity as these al
 
 So, in the future, you'll likely have your CBDC alongside your cash and your favorite payment apps, giving you more ways to manage and spend your money. It's about a "multi-rail future" where different payment methods exist together to make payments easier and safer for everyone.
 
-## CDBC Benefits
+## CBDC Benefits
 The vision and mission (the big dreams and main goals) behind having a CBDC are all about making money and payments better and safer in a world where more and more things are done digitally. Central banks around the world, like the People's Bank of China (PBOC) with its e-CNY, are exploring CBDCs to achieve several important things:
 
 - Financial Innovation: CBDCs are meant to be like a new invention for money, helping to modernize payment systems with cool new technologies. The idea is to make sure that the central bank's money (the safest kind) stays useful and important as we all use more digital payments
@@ -50,7 +50,7 @@ The vision and mission (the big dreams and main goals) behind having a CBDC are 
 - Easier International Payments: CBDCs have the power to make sending money across countries cheaper, faster, and simpler. This is because they can reduce the number of steps and middlemen involved in sending money from one country to another.
 - Helping the Economy (Monetary Policy Effectiveness): CBDCs could give central banks more "tools" to manage the country's economy, like making it easier to encourage spending when needed or to get money to people quickly in emergencies
 
-## Disadventages of CDBC
+## Disadventages of CBDC
 
 ### Less Privacy, More Watching Eyes
 - Imagine if every time you bought candy or a toy, a record was kept by the central bank. That's what could happen with CBDC. Unlike cash, which is private, digital CBDC transactions can be easily tracked
