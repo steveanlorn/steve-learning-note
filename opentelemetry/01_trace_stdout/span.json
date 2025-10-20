@@ -1,0 +1,59 @@
+{
+        "Name": "Multiplication", // the name of the operation
+        "SpanContext": {
+                "TraceID": "803ce6503f3b7ad82d75a3e8e2288d80",
+                "SpanID": "932f1cb25e681ebd",
+                "TraceFlags": "01", // sampling bit (01: sampled/exported, 00: not sampled) https://www.w3.org/TR/trace-context-2/#sampled-flag
+                "TraceState": "", // vendor specific tracing metadata. https://www.w3.org/TR/trace-context-2/#tracestate-header
+                "Remote": false // a boolean indicating whether the SpanContext was received from somewhere else or locally generated.
+        },
+        "Parent": {
+                "TraceID": "803ce6503f3b7ad82d75a3e8e2288d80",
+                "SpanID": "74ead1ff5d507808",
+                "TraceFlags": "01",
+                "TraceState": "",
+                "Remote": false
+        },
+        "SpanKind": 1, // a Span that represents an internal operation within an application.
+        "StartTime": "2025-10-14T09:54:11.626367171+09:00",
+        "EndTime": "2025-10-14T09:54:11.626367589+09:00",
+        "Attributes": null,
+        "Events": null,
+        "Links": null,
+        "Status": {
+                "Code": "Unset",
+                "Description": ""
+        },
+        "DroppedAttributes": 0,
+        "DroppedEvents": 0,
+        "DroppedLinks": 0,
+        "ChildSpanCount": 0,
+        "Resource": [
+                {
+                        "Key": "service.name",
+                        "Value": {
+                                "Type": "STRING",
+                                "Value": "stdout-example"
+                        }
+                },
+                {
+                        "Key": "service.version",
+                        "Value": {
+                                "Type": "STRING",
+                                "Value": "0.0.1"
+                        }
+                }
+        ],
+        "InstrumentationScope": {
+                "Name": "github.com/instrumentron",
+                "Version": "0.1.0",
+                "SchemaURL": "https://opentelemetry.io/schemas/1.37.0",
+                "Attributes": null
+        },
+        "InstrumentationLibrary": {
+                "Name": "github.com/instrumentron",
+                "Version": "0.1.0",
+                "SchemaURL": "https://opentelemetry.io/schemas/1.37.0",
+                "Attributes": null
+        }
+}
