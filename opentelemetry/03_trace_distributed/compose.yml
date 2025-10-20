@@ -1,0 +1,22 @@
+services:
+  jaeger:
+    image: jaegertracing/all-in-one:1.74.0
+    container_name: jaeger
+    ports:
+      - "16686:16686"   # Web UI
+      - "4318:4318"     # HTTP endpoint for traces (from Go SDK)
+  postgres:
+    image: postgres:18
+    container_name: postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: demo
+      POSTGRES_USER: demo
+      POSTGRES_PASSWORD: demo
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "demo"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
